@@ -33,8 +33,8 @@
 <div class="d-flex align-items-center" style="height: 80vh;">
 	<div class="card container col-md-6 mx-auto">
         <label for="msg" class="m-4">
-            <h2 class="text-center">Bem vindo ao sistema.</h1>
-            <h4 class="text-center">Faça <a href="login.php">login</a> ou <a href="cadastro.php">Cadastre-se</a>.</h2>
+            <h2 class="text-center">Bem vindo ao sistema.
+            <h4 class="text-center">Faça <a href="login.php">login</a> ou <a href="cadastro.php">Cadastre-se</a>.
         </label>    
 	</div>
 </div>
