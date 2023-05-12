@@ -6,7 +6,6 @@
 	<title>Página de Inicial</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"></script>
-</head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" style="height: 8vh;">
     <div class="container d-flex justify-content-center">
@@ -40,4 +39,3 @@
 	</div>
 </div>
 </body>
-</html>
