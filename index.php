@@ -6,6 +6,7 @@
 	<title>Página de Inicial</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"></script>
+</head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" style="height: 8vh;">
     <div class="container d-flex justify-content-center">
@@ -33,9 +34,10 @@
 <div class="d-flex align-items-center" style="height: 80vh;">
 	<div class="card container col-md-6 mx-auto">
         <label for="msg" class="m-4">
-            <h2 class="text-center">Bem vindo ao sistema.
-            <h4 class="text-center">Faça <a href="login.php">login</a> ou <a href="cadastro.php">Cadastre-se</a>.
+            <h2 class="text-center">Bem vindo ao sistema.</h2>
+            <h4 class="text-center">Faça <a href="login.php">login</a> ou <a href="cadastro.php">Cadastre-se</a>.</h4>
         </label>    
 	</div>
 </div>
 </body>
+</html>
